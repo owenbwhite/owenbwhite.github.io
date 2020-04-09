@@ -1,7 +1,7 @@
 ---
-title: "PyChart: Native python wrapper for Chartmetric API"
-excerpt: "Spotipy inspired library to simplify querying Chartmetric.<br/><img src='/images/500x300.png'>"
+title: "NYC Coronavirus Visualization"
+excerpt: "Realtime updates of NYC Health data on outbreak in NYC.<br/><img src='/images/500x300.png' style="width: 500; height: 300">"
 collection: portfolio
 ---
 
-Chartmetric is a data aggregator for streaming services Spotify, Apple Music, Deezer, and more. With live metrics of playlist popularity, I created this wrapper in order to automate requests I sent to the server in order to monitor track/artist performance.
+Wanted a close-up of the coronavirus outbreak happening in New York. 
