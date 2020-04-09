@@ -1,6 +1,6 @@
 ---
 title: "NYC Coronavirus Map"
-excerpt: "Real-time updates of NYC Health Data on the outbreak<br/><img src='/images/500x300.png'>"
+excerpt: "Real-time updates of NYC Health Data on the outbreak<br/><img src='/images/nycmap.png'>"
 collection: portfolio
 ---
 
