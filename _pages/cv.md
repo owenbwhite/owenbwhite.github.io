@@ -15,24 +15,24 @@ redirect_from:
 
 Experience
 ======
-* Weav Music: Data Analyst 2017 - present
+* Weav Music: Data Analyst (2017 - present)
   * Implement analytics pipelines for product recommendation engine and MIR 
   * Build tools for automating and scaling music production process
   * Conduct A/B Tests for engineering, marketing, and music teams
   * Manage app community and coordinate company events
 
-* Digital Genius: Language Model Engineer Intern
+* Digital Genius: Language Model Engineer Intern. (2015 - 2016)
   * Designed and implemented language models for augmented customer support
   * Researched word vectors and state of the art applied nlp applications
 
 Education
 ======
 
-* M.A. in Computational Linguistics, CUNY Graduate Center, 28/32 credits  
+* M.A. in Computational Linguistics, CUNY Graduate Center (28/32 credits)
   * Researched Wasserstein distance for clustering algorithms in Applied NLP
   * Led seminars on persistent homology in topological data analysis research group
 
-* B.A. in Ambiguity, New York University, 2016
+* B.A. in Ambiguity, New York University (Class of 2016)
   * Studied intersections of music and language through methods in physics and computer science
   * Independently studied MIR and information theory with applications in machine learning
 
