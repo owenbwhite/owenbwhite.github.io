@@ -12,10 +12,10 @@ redirect_from:
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Weav Music: Data Analyst 2017 - present
+  * 
+  * 
+  * 
 
 * Fall 2015: Research Assistant
   * Github University
@@ -29,15 +29,10 @@ Education
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* JavaScript
+* SQL
+* Google Cloud
+* MIDI/OSC
 
 
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
