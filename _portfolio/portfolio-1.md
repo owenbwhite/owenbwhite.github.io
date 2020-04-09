@@ -20,6 +20,6 @@ I wish you and your family safety in these testing times. I wanted to better und
       border: none;
     }
   </style>
-  <div nyc-map="">
-    <iframe id="iframe-nyc" sandbox="allow-scripts" src="nycovid.html"></iframe>
+  <div id="nyc-map">
+    <div id="iframe-nyc" sandbox="allow-scripts" src="_portfolio/nycovid.html"></div>
   </div>
