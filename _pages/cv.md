@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="../images/resume.pdf"></a>
+<a href="../images/resume.pdf">.</a>
+
 Work experience
 ======
 * Weav Music: Data Analyst 2017 - present
