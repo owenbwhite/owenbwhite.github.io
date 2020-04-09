@@ -1,6 +1,6 @@
 ---
 title: "Billboard Hot 100 lyrical analysis over the decade"
-excerpt: "Exploratory analysis of pop music chart's lyrical content.<br/><img src='/images/billboard.jpg' style="width: 500px; height: 300px;">
+excerpt: "Exploratory analysis of pop music chart's lyrical content.<br/><img src='/images/billboard.jpg'>"
 collection: portfolio
 ---
 
