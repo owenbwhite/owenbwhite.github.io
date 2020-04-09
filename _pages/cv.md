@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "A glimpse of my work"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+
+
 
 
 Experience
@@ -33,8 +36,8 @@ Education
   * Studied intersections of music and language through methods in physics and computer science
   * Independently studied MIR and information theory with applications in machine learning
 
-* Wolfram NKS School Summer 2014
-  * Using IRMAS dataset, used MFCC features in CNN neural network acrhitecture for classifying musical instruments 
+* Wolfram NKS School, Summer 2014
+  * Using IRMAS dataset, used MFCC features in CNN architecture for classifying musical instruments 
 
 Skills
 ======
