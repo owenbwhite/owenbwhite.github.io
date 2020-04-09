@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "sOwavy"
+  name             : "Data Scientist"
   avatar           : "logo.png"
-  bio              : "Data Scientist from New York"
+  bio              : "specializing in natural language processing and music information retrieval"
   location         : "New York City"
   employer         : "Weav Music"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -105,7 +105,7 @@ author:
   linkedin         : "owenbwhite"
   orcid            : 
   pinterest        :
-  soundcloud       :
+  soundcloud       : "owenbwhite"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
