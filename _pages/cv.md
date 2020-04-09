@@ -11,6 +11,8 @@ redirect_from:
 
 
 <object data="../images/resume.pdf" type=”application/pdf” width=”100%” height=”100%”></object>
+<a href="../images/resume.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a> 
+
 Work experience
 ======
 * Weav Music: Data Analyst 2017 - present
