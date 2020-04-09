@@ -11,7 +11,7 @@ redirect_from:
 
 
 <!-- <object data="../images/resume.pdf" type=”application/pdf” width=”100%” height=”100%”></object> -->
-<a href="../images/resume.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a> 
+<!-- <a href="../images/resume.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>  -->
 
 <iframe src="https://github.com/owenbwhite/owenbwhite.github.io/blob/master/images/resume.pdf" style="width: 660px; height:  640px;" frameborder="0"></iframe>;
 
