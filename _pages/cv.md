@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-<object data="../images/resume.pdf" type=”application/pdf” width=”100%” height=”100%”>
+<object data="../images/resume.pdf" type=”application/pdf” width=”100%” height=”100%”></object>
 Work experience
 ======
 * Weav Music: Data Analyst 2017 - present
