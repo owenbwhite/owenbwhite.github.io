@@ -21,5 +21,5 @@ I wish you and your family safety in these testing times. I wanted to better und
     }
   </style>
   <div id="container">
-    <iframe id="iframe" sandbox="allow-scripts" src="/files/src/notebooks/nycovid.html"></iframe>
+    <iframe id="iframe" sandbox="allow-scripts" src="/nycovid.html"></iframe>
   </div>
