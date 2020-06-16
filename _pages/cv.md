@@ -15,7 +15,7 @@ redirect_from:
 
 Experience
 ======
-* Weav Music: Data Analyst (2017 - present)
+* Weav Music: Data Engineer (2018 - present)
   * Implement analytics pipelines for product recommendation engine and MIR 
   * Build tools for automating and scaling music production process
   * Conduct A/B Tests for engineering, marketing, and music teams
@@ -49,7 +49,7 @@ Skills
   * App Development with electron, express, react
   * Data Viz with D3
 * SQL
-* Google Cloud
+* GCP + AWS
 * MIDI/OSC
 
 <a href="../images/resume.pdf">Download resume</a>
