@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "data engineer"
   avatar           : "https://avatars1.githubusercontent.com/u/22937951?s=460&u=08f6ec28ba7178f24853d6e65d8d5ff0602881cc&v=4"
-  bio              : "specializing in natural language processing and music information retrieval"
+  bio              : "i like working with data and playing with music."
   location         : "New York City"
-  employer         : "Weav Music"
+  employer         : #"Weav Music"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "me@owenbwhite.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
