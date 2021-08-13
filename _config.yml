@@ -310,5 +310,5 @@ compress_html:
   ignore:
     envs: development
 
-minimal_mistakes_skin: "neon"
+minimal_mistakes_skin: neon
 theme: jekyll-theme-minimal
