@@ -20,15 +20,11 @@ redirect_from:
 
 - Weav Music: Data Engineer (03/2018 - 11/2020)
 
-  - Implement analytics pipelines for product recommendation engine and MIR
-  - Build tools for automating and scaling music production process
-  - Conduct A/B Tests for engineering, marketing, and music teams
-  - Manage app community and coordinate company events
   - Created internal automation tools using methods in signal processing and music information retrieval, reducing music team's delivery times by upwards of 50%.
   - Architected serverless functions to handle big data deliveries from major record labels eliminating the need for manual data entry.
 
-- Digital Genius: Language Modeling Intern. (01/2015 - 01/2016)
-  - Designed and implemented language models for augmented customer support
+- Digital Genius: Language Modeling Intern (01/2015 - 01/2016)
+  - Implemented language models for augmented customer support
   - Researched word vectors and state of the art applied nlp applications
 
 # Education
@@ -48,10 +44,14 @@ redirect_from:
 
 # Skills
 
+- AI/NLP
+- Signal Processing
+- MLOps
 - Python
 - JavaScript
 - SQL
 - GCP + AWS
+- Git
 - MIDI/OSC
 
 <a href="../images/resume.pdf">Download resume</a>
