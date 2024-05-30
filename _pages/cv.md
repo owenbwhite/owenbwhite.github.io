@@ -13,7 +13,7 @@ redirect_from:
 
 - HotDrop: Chief Technology Officer (01/2022 - 01/2023)
 
-  - Directed ideation, development, and production of B2B and B2C SaaS products
+  - Directed ideation, development, and production of B2B and B2C SaaS products HotDrop and HotDrop Studio
   - Spearheaded MLOps, designing and implementing a recommendation system that employs content-based and collaborative filtering
   - Raised preseed investment through Techstars accelerator program at $5M valuation
   - Assembled a motivated team on a tight budget
