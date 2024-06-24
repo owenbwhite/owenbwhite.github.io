@@ -3,14 +3,15 @@ title: "when i look in the mirror"
 collection: music
 type: "Undergraduate course"
 permalink: /music/wilitm
-date: 2022-22-02
-location: "New York, NY"
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-<!-- # Heading 1
+# Heading 1
 
 # Heading 2
 
-# Heading 3 -->
+# Heading 3
