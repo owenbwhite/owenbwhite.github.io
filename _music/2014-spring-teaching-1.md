@@ -1,10 +1,10 @@
 ---
 title: "when i look in the mirror"
 collection: music
-type: "Undergraduate course"
+type: "Single"
 permalink: /music/wilitm
-venue: "University 1, Department"
-date: 2014-01-01
+# venue: "University 1, Department"
+date: 2022-22-02
 location: "City, Country"
 ---
 
