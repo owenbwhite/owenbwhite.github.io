@@ -3,7 +3,7 @@ title: "when i look in the mirror"
 collection: music
 type: "Single"
 permalink: /music/wilitm
-# venue: "University 1, Department"
+venue: "Studio @ Lower East Science"
 date: 2022-22-02
 location: "City, Country"
 ---
