@@ -4,7 +4,7 @@ collection: music
 type: "Single"
 permalink: /music/wilitm
 venue: "Studio @ Lower East Science"
-date: 2022-22-02
+date: 2022-02-22
 location: "City, Country"
 ---
 
