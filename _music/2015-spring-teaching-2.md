@@ -1,7 +1,7 @@
 ---
 title: "allergic to bees"
 collection: music
-type: "Workshop"
+type: "EP"
 permalink: /music/2015-spring-teaching-1
 # venue: "University 1, Department"
 date: 2024-14-07
