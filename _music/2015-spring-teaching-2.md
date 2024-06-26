@@ -8,7 +8,9 @@ date: 2024-07-14
 location: "New York, NY"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+My debut EP written to capture my most intimate experiences growing in an ever-changing environment. Intimately acoustic, minimally electronic, written to pluck the strings anyone might feel from familial and platonic relationships to romance and self-reflection.
+
+Coming July 14, 2024
 
 # Heading 1
 

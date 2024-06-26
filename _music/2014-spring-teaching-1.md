@@ -8,7 +8,7 @@ date: 2022-02-22
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+A reflection of myself in a song. A reminder of who I am in a world trying to capitalize on your attention.
 
 # Heading 1
 
