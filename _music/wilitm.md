@@ -3,7 +3,7 @@ title: "when i look in the mirror"
 collection: music
 type: "Single"
 permalink: /music/wilitm
-venue: "Studio @ Lower East Science"
+venue: "Lower East Science"
 date: 2022-02-22
 location: "New York, NY"
 ---

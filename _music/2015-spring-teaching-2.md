@@ -3,7 +3,7 @@ title: "allergic to bees"
 collection: music
 type: "EP"
 permalink: /music/2015-spring-teaching-1
-venue: "Studio @ Lower East Science"
+venue: "Lower East Science"
 date: 2024-07-14
 location: "New York, NY"
 ---
