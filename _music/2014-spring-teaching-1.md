@@ -2,7 +2,7 @@
 title: "when i look in the mirror"
 collection: music
 type: "Single"
-permalink: /music/wilitm
+permalink: https://open.spotify.com/track/1s7MpEbNs0x4FFBvLIMfDg?si=ba36666807b9434f
 venue: "Studio @ Lower East Science"
 date: 2022-02-22
 location: "City, Country"

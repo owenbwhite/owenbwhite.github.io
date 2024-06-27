@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am excited to share my work as a creative technologist. All projects in my portfolio are strictly personal and are not involved with my studies nor my work. Feel free to reach out for a conversation on collaboration! Cheers 😌
+Here's some stuff I built over the years. All projects in my portfolio are strictly personal and are not involved with my studies nor my work. Feel free to reach out for a conversation on collaboration! Cheers 😌
