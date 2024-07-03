@@ -1,6 +1,6 @@
 ---
 title: "PyChart: Native python wrapper for Chartmetric API"
-excerpt: "Spotipy inspired library to simplify querying Chartmetric.<br/><img src='/images/chartmetric.svg'>"
+excerpt: "Spotipy inspired library to simplify querying Chartmetric."
 collection: portfolio
 ---
 
