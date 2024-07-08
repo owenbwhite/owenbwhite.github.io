@@ -299,5 +299,5 @@ compress_html:
   ignore:
     envs: development
 
-minimal_mistakes_skin: neon
-theme: neon
+minimal_mistakes_skin: dark
+theme: dark
