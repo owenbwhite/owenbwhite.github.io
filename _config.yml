@@ -300,4 +300,4 @@ compress_html:
     envs: development
 
 minimal_mistakes_skin: neon
-theme: jekyll-theme-minimal
+theme: neon
